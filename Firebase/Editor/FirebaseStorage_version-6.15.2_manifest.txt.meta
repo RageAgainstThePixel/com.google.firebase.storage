@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: a6989c90a2b0485dacbc87f613adaf3c
+guid: d2eccc5b6da249868d02d422d2299ea8
 labels:
 - gvh
 - gvh_manifest
-- gvh_version-6.15.1
-- gvhp_exportpath-Firebase/Editor/FirebaseStorage_version-6.15.1_manifest.txt
+- gvh_version-6.15.2
+- gvhp_exportpath-Firebase/Editor/FirebaseStorage_version-6.15.2_manifest.txt
 - gvhp_manifestname-0Cloud Storage for Firebase
 - gvhp_manifestname-1FirebaseStorage
 timeCreated: 0
