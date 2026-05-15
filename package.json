@@ -1,11 +1,16 @@
 {
-  "displayName": "Cloud Storage for Firebase", 
-  "name": "com.google.firebase.storage", 
-  "unity": "2017.1", 
+  "description": "Store and serve game content with ease.\n\nWith Cloud Storage, you can easily store and serve large binary objects, such as screenshots, replays, or game assets, and effortlessly grow from prototype to production.\n\nThrough an integration with Firebase Authentication, you can use our declarative security model to control access and keep data safe.", 
   "author": {
     "name": "Google LLC", 
     "url": "https://firebase.google.com/docs/storage/unity/start"
   }, 
+  "unity": "2017.1", 
+  "displayName": "Cloud Storage for Firebase", 
+  "version": "7.0.0", 
+  "dependencies": {
+    "com.google.firebase.auth": "7.0.0"
+  }, 
+  "name": "com.google.firebase.storage", 
   "keywords": [
     "Google", 
     "Firebase", 
@@ -13,10 +18,5 @@
     "Cloud", 
     "vh-name:FirebaseStorage", 
     "vh-name:Cloud Storage for Firebase"
-  ], 
-  "description": "Store and serve game content with ease.\n\nWith Cloud Storage, you can easily store and serve large binary objects, such as screenshots, replays, or game assets, and effortlessly grow from prototype to production.\n\nThrough an integration with Firebase Authentication, you can use our declarative security model to control access and keep data safe.", 
-  "dependencies": {
-    "com.google.firebase.auth": "6.16.1"
-  }, 
-  "version": "6.16.1"
+  ]
 }
